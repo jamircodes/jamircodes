@@ -1,8 +1,8 @@
 <!-- 🌐 JamirCodes | Frontend Developer | Premium Edition -->
 
-<!-- Animated Banner -->
+<!-- Animated / Graphic Banner -->
 <p align="center">
-  <img src="https://github.com/jamircodes/jamircodes/blob/main/assets/banner.gif" alt="JamirCodes Banner" width="100%" />
+  <img src="https://github.com/jamircodes/jamircodes/blob/main/A_digital_graphic_banner_showcases_JamirCodes,_a_f.png" alt="JamirCodes Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm **Jamir**
@@ -14,9 +14,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🚀 About Me
-I'm a creative **Frontend Developer** passionate about crafting elegant, high-performance web experiences.  
-With solid expertise in **React**, **Tailwind CSS**, and **UI/UX Design**, I turn ideas into smooth, interactive digital products.  
-I love merging **design, logic, and innovation** to create impactful user experiences.
+I'm a passionate **Frontend Developer** who loves to build clean, fast, and responsive web experiences.  
+Specialized in **React**, **Tailwind CSS**, and **modern UI design**, I enjoy bringing ideas to life with creativity and precision.  
+My goal is to create **beautiful and user-focused digital products** that make an impact.  
 
 ---
 
@@ -42,10 +42,10 @@ I love merging **design, logic, and innovation** to create impactful user experi
 ---
 
 ## 💬 What I’m Working On
-- 🚀 Building responsive web apps using **React + Tailwind CSS**
-- 🎨 Experimenting with **Framer Motion animations**
-- ⚙️ Exploring **Next.js & Node.js** for full-stack mastery  
-- 🌍 Enhancing performance, SEO & user accessibility  
+- 🚀 Developing interactive web apps using **React + Tailwind CSS**
+- 🎨 Creating animations with **Framer Motion**
+- ⚙️ Learning **Next.js & Node.js** for full-stack growth
+- 🌍 Focusing on clean design, performance & accessibility  
 
 ---
 
