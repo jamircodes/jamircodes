@@ -1,59 +1,73 @@
-<!-- 🌐 JamirCodes | Frontend Developer -->
+<!-- 🌐 JamirCodes | Frontend Developer | Premium Edition -->
 
-# 👋 Hey there, I'm **Jamir** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://github.com/jamircodes/jamircodes/blob/main/assets/banner.gif" alt="JamirCodes Banner" width="100%" />
+</p>
+
+# 👋 Hi, I'm **Jamir**
 ### 💻 Frontend Web Developer from **Bangladesh 🇧🇩**
 
 ---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Code%20Quality-Excellent-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Dev-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Passion-Creativity%20%26%20Design-orange?style=for-the-badge" />
-</p>
-
----
+<!-- Gradient Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🚀 About Me
-I'm a passionate **Frontend Developer** dedicated to building fast, modern, and responsive web applications.  
-With expertise in **React**, **Tailwind CSS**, and **UI/UX Design**, I craft clean and interactive digital experiences.  
-I love blending creativity with code to make products that are both functional and beautiful.
+I'm a creative **Frontend Developer** passionate about crafting elegant, high-performance web experiences.  
+With solid expertise in **React**, **Tailwind CSS**, and **UI/UX Design**, I turn ideas into smooth, interactive digital products.  
+I love merging **design, logic, and innovation** to create impactful user experiences.
 
 ---
 
 ## 🧠 Skills & Tools
+
 | 💡 Core | ⚛️ Frameworks | 🎨 Design | 🧩 Dev Tools |
 |:--|:--|:--|:--|
 | HTML5 / CSS3 / JavaScript (ES6+) | React / Next.js | Tailwind CSS / UI Design | Git / GitHub / VS Code |
-| Responsive Layouts | Framer Motion | Figma / Canva | Netlify / Vercel Deployment |
+| Responsive Design | Framer Motion | Figma / Canva | Netlify / Vercel Deployment |
 
 ---
 
-## 📊 GitHub Performance
-<p align="left">
+## 📊 GitHub Insights
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamircodes&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jamircodes&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamircodes&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
 ## 💬 What I’m Working On
-- 🚀 Developing responsive web apps with **React + Tailwind CSS**  
-- 🌱 Exploring **Framer Motion** for advanced animations  
-- ⚙️ Learning **Next.js & Node.js** to go full-stack  
-- 🎯 Focused on clean design, accessibility, and performance  
+- 🚀 Building responsive web apps using **React + Tailwind CSS**
+- 🎨 Experimenting with **Framer Motion animations**
+- ⚙️ Exploring **Next.js & Node.js** for full-stack mastery  
+- 🌍 Enhancing performance, SEO & user accessibility  
 
 ---
 
 ## 🌐 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamircodes)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamiruddin17671743@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801317671743)
+<p align="left">
+  <a href="https://github.com/jamircodes"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:jamiruddin17671743@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/8801317671743"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
-## ✨ Fun Fact
-> “Good design is where creativity meets purpose.”  
+## ✨ Visitors Count
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jamircodes&label=Profile%20Visitors&color=brightgreen&style=flat-square" alt="profile visitors" />
+</p>
+
+---
+
+## 🧭 Quote of the Day
+> “Design is not just what it looks like and feels like — design is how it works.” — *Steve Jobs*
 
 ---
 
