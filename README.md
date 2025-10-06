@@ -1,69 +1,49 @@
-<!-- ✨ JamirCodes | Ultimate Frontend Developer Profile ✨ -->
+<!-- JamirCodes | Frontend Developer -->
 
-<p align="center">
-  <img src="https://i.ibb.co/4j3VhqX/jamircodes-banner.gif" alt="JamirCodes Banner" width="100%" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Jamir!;Creative+Frontend+Developer;I+Design+and+Code+Modern+Web+Experiences+✨" alt="Typing Animation" />
-</h1>
+<h1 align="center">👋 Hi, I'm Jamir</h1>
+<h3 align="center">Frontend Web Developer from Bangladesh 🇧🇩</h3>
 
 ---
 
-### 👨‍💻 About Me  
-💻 A passionate *Frontend Developer* who blends design & code to create stunning web interfaces.  
-🎨 Skilled in *React, Tailwind CSS, Next.js*, and clean UI/UX principles.  
-🚀 I love transforming ideas into fully functional digital experiences.  
-🎯 Current Focus: mastering *animation, motion design, and **Next.js apps*.  
-⚡ Fun fact: I treat every UI like a mini artwork 🖌  
+### 🚀 About Me
+I'm a passionate *Frontend Developer* who loves crafting clean, fast, and responsive web interfaces.  
+Focused on *React, Tailwind CSS, and modern UI design* to build smooth user experiences.  
+I enjoy turning ideas into interactive digital products with creativity and precision.
 
 ---
 
-### 🧠 Skills & Tools  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,vscode,git,github&perline=5" alt="Skills" />
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding animation" />
-</p>
+### 🧠 Skills & Expertise
+✅ HTML / CSS / JavaScript  
+✅ React & Next.js  
+✅ Tailwind CSS / UI Design  
+✅ Git / GitHub / VS Code  
+✅ Figma / Framer Motion  
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamircodes&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamircodes&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamircodes&theme=tokyo-night" width="100%" alt="JamirCodes Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jamircodes&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jamircodes&theme=radical" height="165" />
 </p>
 
 ---
 
-### 🪄 Motion Zone (Animated Highlights)
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Frontend Dev Animation">
-</p>
+### 💬 What I’m Doing
+- 🚀 Building modern web apps using React & Tailwind  
+- 🌱 Exploring animations with Framer Motion  
+- 💡 Learning full-stack fundamentals (Next.js & Node)  
+- 🎯 Goal: To create meaningful, user-focused digital experiences  
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/jamircodes" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/jamircodes"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-link-here" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### ⚡ Current Focus  
-🧩 Building interactive UI components  
-📚 Exploring Framer Motion & GSAP  
-☁ Deploying projects on Vercel  
-🌈 Learning to design motion-first interfaces  
-
----
-
-⭐ **From [jamircodes](https://github.com/jamircodes)**
+⭐ From [jamircodes](https://github.com/jamircodes)
