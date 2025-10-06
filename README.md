@@ -2,7 +2,7 @@
 
 <!-- Animated / Graphic Banner -->
 <p align="center">
-  <img src="https://github.com/jamircodes/jamircodes/blob/main/jamircodes.png" alt="JamirCodes Banner" width="100%" />
+  <img src="https://github.com/jamircodes/jamircodes/blob/main/JamirCodes%20-%20Frontend%20Developer%20Showcase.png" alt="JamirCodes Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm **Jamir**
