@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Jamiruddin Abdullah**
+# 👋 Hi, I'm **Jamiruddin**
 ### 💻 Frontend Web Developer | Bangladesh 🇧🇩
 
 ---
